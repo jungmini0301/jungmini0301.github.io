@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Public Health on Jungmin Chang</title>
+    <link>https://jungmini0301.github.io/public-health/</link>
+    <description>Recent content in Public Health on Jungmin Chang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="https://jungmini0301.github.io/public-health/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 2: Contingency Table and Measure of Association</title>
+      <link>https://jungmini0301.github.io/public-health/project2/</link>
+      <pubDate>Tue, 18 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jungmini0301.github.io/public-health/project2/</guid>
+      <description>The essence of epidemiology is to measure disease occurrence and make comparisons within and between population. Different measures may be used to explain differences in the distribution of disease or other health outcomes of interest between populations. Health outcomes measured in epidemiological studies will vary across studies, for instance, morbidity, mortality, infectious disease incidence, vaccine efficacy etc.
+In this project, we aim to understand a variety of measures employed in epidemiology and measure occurrences and associations of health outcomes of interest in real world setting using R packages.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Data Manipulation and Visualization</title>
+      <link>https://jungmini0301.github.io/public-health/project1/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://jungmini0301.github.io/public-health/project1/</guid>
+      <description>Data visualization is simply mapping data to geometry and color, which really helps us to understand data. For data visualization project, I used gapminder data from the Gapminder package in r. I encoded values to a variety of visual cues like position, length, shape or color to explore the relationship between life expectancy and GDP per capita across five continents.
+Different types of plots were chosen including scatter plots, bar plots and box plots.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jungmini0301.github.io/public-health/project3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jungmini0301.github.io/public-health/project3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jungmini0301.github.io/public-health/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jungmini0301.github.io/public-health/project4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jungmini0301.github.io/public-health/project5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jungmini0301.github.io/public-health/project5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jungmini0301.github.io/public-health/project6/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jungmini0301.github.io/public-health/project6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
